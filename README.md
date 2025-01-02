@@ -5,24 +5,23 @@ Schaffst du es, den Fall zu erkennen?
 
 ## Voraussetzungen
 
+Folgendes wird benötigt:
+
 - Spotify-Account
 - Python Installation
 
 ## Installation
 
-Dieses Ratespiel kann mit dem Paketmanager pip installiert werden:
+Dieses Ratespiel kann mit dem python-Paketmanager pip installiert werden:
 
 ```bash
 pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheimnisvollesquiz
 ```
 
-TODO Paket sollte einen Befehl exportieren
-
 ## Nutzung
 
-Öffne Spotify in deinem Browser, melde dich an und minimiere das Fenster um nicht zu schummeln.
-Dann führe das Quiz-Programm aus:
-
-```bash
-python quiz.py
-```
+Öffne Spotify in deinem Browser und melde dich an.
+Vor dem ersten quiz in einer "Sitzung" solltest du vielleicht irgendein Lied
+kurz starten und dann wieder pausieren.
+Dann minimiere das Browser-Fenster, um nicht zu schummeln!
+Das Quiz kann dann über den Behehl `quiz` in einem Terminal gestartet werden.

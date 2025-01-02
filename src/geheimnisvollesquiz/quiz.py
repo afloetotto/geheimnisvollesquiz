@@ -90,7 +90,8 @@ def get_device_id():
     return devices["devices"][0]["id"]
 
 
-def main(artist_name):
+def main():
+    artist_name = "Die drei ???"
     artist_id = get_artist_id(artist_name)
     device_id = get_device_id()
     if artist_id:
@@ -110,7 +111,6 @@ def main(artist_name):
 
 
 if __name__ == "__main__":
-    artist_name = "Die drei ???"
-    main(artist_name)
+    main()
     # id = get_artist_id(artist_name)
     # get_random_album(id)
