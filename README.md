@@ -9,7 +9,8 @@ Schaffst du es, den Fall zu erkennen?
 Folgendes wird benötigt:
 
 - Spotify-Account
-- Python Installation
+- [python](https://www.python.org/downloads/) inklusive dem Paketmanager pip
+- [git](https://git-scm.com/downloads)
 
 ## Installation
 
@@ -21,7 +22,7 @@ pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheim
 
 ## Nutzung
 
-Öffne Spotify in deinem Browser und melde dich an.
+[Öffne Spotify in deinem Browser](https://open.spotify.com/) und melde dich an.
 Vor dem ersten quiz in einer "Sitzung" solltest du vielleicht irgendein Lied
 kurz starten und dann wieder pausieren.
 Dann minimiere das Browser-Fenster, um nicht zu schummeln!
