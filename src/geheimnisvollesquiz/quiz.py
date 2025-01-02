@@ -10,6 +10,7 @@ sp = spotipy.Spotify(
         client_secret="da24a21f6fdf4c6fbc76c51f2ecbf771",
         redirect_uri="http://localhost:8888/callback",
         scope="user-read-playback-state,user-modify-playback-state",
+        cache_path=".cache_spotify",
     )
 )
 
