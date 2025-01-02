@@ -5,12 +5,13 @@ Schaffst du es, den Fall zu erkennen?
 
 ## Voraussetzungen
 
-- Ein Spotify-Account
-- Eine python Installation
+- Spotify-Account
+- Python Installation
 
 ## Installation
 
-TODO Das hier als verpacken und auf github hochladen
+TODO Paket sollte einen Befehl exportieren
+TODO Das Paket hier auf github hochladen
 
 ## Nutzung
 
