@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "geheimnisvollesquiz"
+version = "0.1.0"
+description = 'Ein "Die drei ???" Ratespiel'
+authors = ["Aaron Flötotto"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+spotipy = "^2.19.0"  # Add the spotipy package here
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
