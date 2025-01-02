@@ -25,4 +25,4 @@ pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheim
 Vor dem ersten quiz in einer "Sitzung" solltest du vielleicht irgendein Lied
 kurz starten und dann wieder pausieren.
 Dann minimiere das Browser-Fenster, um nicht zu schummeln!
-Das Quiz kann dann über den Behehl `quiz` in einem Terminal gestartet werden.
+Das Quiz kann nun über den Behehl `quiz` in einem Terminal gestartet werden.
