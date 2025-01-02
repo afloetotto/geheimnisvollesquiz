@@ -1,6 +1,7 @@
 # geheimnisvollesquiz
 
-Ein "Die drei ???" Ratespiel, in dem ein Ausschnitt aus einem zufälligen Fall abgespielt.
+Ein "Die drei ???" Ratespiel, in dem ein Ausschnitt aus einem zufälligen Fall
+abgespielt wird.
 Schaffst du es, den Fall zu erkennen?
 
 ## Voraussetzungen
