@@ -10,8 +10,13 @@ Schaffst du es, den Fall zu erkennen?
 
 ## Installation
 
+Dieses Ratespiel kann mit dem Paketmanager pip installiert werden:
+
+```bash
+pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheimnisvollesquiz
+```
+
 TODO Paket sollte einen Befehl exportieren
-TODO Das Paket hier auf github hochladen
 
 ## Nutzung
 
