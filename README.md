@@ -6,9 +6,9 @@ Schaffst du es, den Fall zu erkennen?
 
 ## Installation
 
-### Als ein python Paket
+### Als python Paket
 
-Folgendes wird benötigt:
+Hierbei wird folgendes benötigt:
 
 - Spotify-Account
 - [python](https://www.python.org/downloads/) inklusive Paketmanager pip
@@ -22,9 +22,9 @@ pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheim
 
 ### Als eigenständiges Programm
 
-Im Ordner `dist` befindet sich eine unter Linux ausführbare Datei namens `quiz`.
-Diese kann heruntergeladen und im Terminal ausgeführt werden.
-Um das in jedem Ordner machen zu können kann der Speicherort der Datei der
+Im Ordner `dist/` befindet sich eine unter Linux ausführbare Datei namens `quiz`.
+Diese kann heruntergeladen und direkt im Terminal ausgeführt werden.
+Um das in jedem Ordner machen zu können sollte der Speicherort der Datei der
 Umgebungsvariable `PATH` hinzugefügt werden.
 
 ## Nutzung
