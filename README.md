@@ -8,7 +8,7 @@ Schaffst du es, den Fall zu erkennen?
 
 ### Als python Paket
 
-Hierbei wird folgendes benötigt:
+Hierfür wird folgendes benötigt:
 
 - Spotify-Account
 - [python](https://www.python.org/downloads/) inklusive Paketmanager pip
@@ -32,7 +32,7 @@ Umgebungsvariable `PATH` hinzugefügt werden.
 ## Nutzung
 
 [Öffne Spotify in deinem Browser](https://open.spotify.com/) und melde dich an.
-Vor dem ersten quiz in einer "Sitzung" solltest du vielleicht irgendein Lied
+Vor dem ersten Quiz in einer "Sitzung" solltest du vielleicht irgendein Lied
 kurz starten und dann wieder pausieren.
 Dann minimiere das Browser-Fenster, um nicht zu schummeln!
 Das Quiz kann nun über den Befehl `quiz` in einem Terminal gestartet werden.
