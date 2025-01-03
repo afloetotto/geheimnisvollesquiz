@@ -2,7 +2,7 @@
 
 Ein "Die drei ???" Ratespiel, in dem ein Ausschnitt aus einem zufälligen Fall
 abgespielt wird.
-Schaffst du es, den Fall zu erkennen?
+Schaffst du es den Fall zu erkennen?
 
 ## Installation
 
@@ -26,7 +26,7 @@ Nach der Installation sollte der Befehl `quiz` im Terminal verfügbar sein.
 
 Im Ordner `dist/` befindet sich eine unter Linux ausführbare Datei namens `quiz`.
 Diese kann heruntergeladen und direkt im Terminal ausgeführt werden.
-Um das in jedem Ordner machen zu können sollte der Speicherort der Datei der
+Damit das in jedem Ordner funktioniert kann der Speicherort der Datei der
 Umgebungsvariable `PATH` hinzugefügt werden.
 
 ## Nutzung
