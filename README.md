@@ -4,21 +4,28 @@ Ein "Die drei ???" Ratespiel, in dem ein Ausschnitt aus einem zufälligen Fall
 abgespielt wird.
 Schaffst du es, den Fall zu erkennen?
 
-## Voraussetzungen
+## Installation
+
+### Als ein python Paket
 
 Folgendes wird benötigt:
 
 - Spotify-Account
-- [python](https://www.python.org/downloads/) inklusive dem Paketmanager pip
+- [python](https://www.python.org/downloads/) inklusive Paketmanager pip
 - [git](https://git-scm.com/downloads)
 
-## Installation
-
-Dieses Ratespiel kann mit dem python-Paketmanager pip installiert werden:
+Anschließend kann dieses Ratespiel mit dem python-Paketmanager pip installiert werden:
 
 ```bash
 pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheimnisvollesquiz
 ```
+
+### Als eigenständiges Programm
+
+Im Ordner `dist` befindet sich eine unter Linux ausführbare Datei namens `quiz`.
+Diese kann heruntergeladen und im Terminal ausgeführt werden.
+Um das in jedem Ordner machen zu können kann der Speicherort der Datei der
+Umgebungsvariable `PATH` hinzugefügt werden.
 
 ## Nutzung
 
@@ -26,4 +33,4 @@ pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheim
 Vor dem ersten quiz in einer "Sitzung" solltest du vielleicht irgendein Lied
 kurz starten und dann wieder pausieren.
 Dann minimiere das Browser-Fenster, um nicht zu schummeln!
-Das Quiz kann nun über den Behehl `quiz` in einem Terminal gestartet werden.
+Das Quiz kann nun über den Befehl `quiz` in einem Terminal gestartet werden.
