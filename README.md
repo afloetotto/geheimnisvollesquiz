@@ -20,6 +20,8 @@ Anschließend kann dieses Ratespiel mit dem python-Paketmanager pip installiert 
 pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheimnisvollesquiz
 ```
 
+Nach der Installation sollte der Befehl `quiz` im Terminal verfügbar sein.
+
 ### Als eigenständiges Programm
 
 Im Ordner `dist/` befindet sich eine unter Linux ausführbare Datei namens `quiz`.
