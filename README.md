@@ -21,6 +21,9 @@ pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheim
 ```
 
 Nach der Installation sollte der Befehl `quiz` im Terminal verfügbar sein.
+Wichtig hierfür ist, dass der Order `<Pfad zu python Installation>/Scripts` in
+der Umgebungsvariable `PATH` enthalten ist.
+Dies sollte normalerweise bei der python Installation automatisch eingerichtet werden.
 
 Alternativ zur Installation als python Paket kann dieses repository heruntergeladen
 werden und die Datei ``quiz.py`` mit der lokalen python Installation ausgeführt werden.
