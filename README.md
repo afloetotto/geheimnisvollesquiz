@@ -6,7 +6,7 @@ Schaffst du es den Fall zu erkennen?
 
 ## Installation
 
-### Als python Paket
+### Python Code lokal ausführen
 
 Hierfür wird folgendes benötigt:
 
@@ -22,8 +22,19 @@ pip install git+https://github.com/afloetotto/geheimnisvollesquiz.git#egg=geheim
 
 Nach der Installation sollte der Befehl `quiz` im Terminal verfügbar sein.
 
+Alternativ zur Installation als python Paket kann dieses repository heruntergeladen
+werden und die Datei ``quiz.py`` mit der lokalen python Installation ausgeführt werden.
+Mit den folgenden Befehlen wird das Programm im aktuellen Arbeitsverzeichnis
+gespeichert.
+
+```bash
+git clone https://github.com/afloetotto/geheimnisvollesquiz.git
+python geheimnisvollesquiz/src/geheimnisvollesquiz/quiz.py
+```
+
 ### Als eigenständiges Programm
 
+Hierfür wird nur ein Spotify-Account benötigt.
 Im Ordner `dist/` befindet sich eine unter Linux ausführbare Datei namens `quiz`.
 Diese kann heruntergeladen und direkt im Terminal ausgeführt werden.
 Damit das in jedem Ordner funktioniert kann der Speicherort der Datei der
@@ -35,4 +46,4 @@ Umgebungsvariable `PATH` hinzugefügt werden.
 Vor dem ersten Quiz in einer "Sitzung" solltest du vielleicht irgendein Lied
 kurz starten und dann wieder pausieren.
 Dann minimiere das Browser-Fenster, um nicht zu schummeln!
-Das Quiz kann nun über den Befehl `quiz` in einem Terminal gestartet werden.
+Das Quiz kann nun wie oben unter der ausgewählten Installationsmethode beschrieben gestartet werden.

@@ -1,3 +1,4 @@
 .cache
 src/geheimnisvollesquiz/__pycache__
 dist/.cache_spotify
+.cache_spotify
